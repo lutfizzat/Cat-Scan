@@ -32,23 +32,20 @@ Use Fingers to draw the shape to match the corresponding shape being attached to
 ## Acknowledgement
 We would like to thank our lecturer, Mr Albert for his guidance and support throughout the development of this project.
 
-## References
-- Unity : [https://unity.com/](https://unity.com/)
-
         
 ## Video Demo and Screenshots
 Watch Video Demo on YouTube: [https://youtu.be/4MH501NE3_c](https://youtu.be/4MH501NE3_c)
 <table>
   <tr>
-    <td><img src="resources/demo/MainMenu.png" alt="Main Menu"></td>
-    <td><img src="resources/demo/EndScreen.png" alt="End Screen"></td>
+    <td><img src="demo/Start_Screen.png" alt="Start Screen"></td>
+    <td><img src="demo/Tutorial_Screen.png" alt="Tuto Screen"></td>
   </tr>
   <tr>
-    <td><img src="resources/demo/HowToPlay1.png" alt="How To Play 1"></td>
-    <td><img src="resources/demo/HowToPlay2.png" alt="How To Play 2"></td>
+    <td><img src="demo/Game_Screen1.png" alt="Game_Screen1"></td>
+    <td><img src="demo/Game_Over_Screen.png" alt="Game Over Screen"></td>
   </tr>
   <tr>
-    <td><img src="resources/demo/InGame1.png" alt="In Game 1"></td>
-    <td><img src="resources/demo/InGame2.png" alt="In Game 2"></td>
+    <td><img src="demo/High_Score.png" alt="High Score"></td>
+    <td><img src="demo/Leaderboard_Screen.png" alt="Leaderboard"></td>
   </tr>
   <tr>
