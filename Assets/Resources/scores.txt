@@ -1,0 +1,53 @@
+{
+    "scores": [
+        {
+            "playerName": "Holde",
+            "score": 900
+        },
+        {
+            "playerName": "Mage",
+            "score": 600
+        },
+        {
+            "playerName": "Rage",
+            "score": 200
+        },
+        {
+            "playerName": "father",
+            "score": 500
+        },
+        {
+            "playerName": "Mother",
+            "score": 200
+        },
+        {
+            "playerName": "Perry",
+            "score": 100
+        },
+        {
+            "playerName": "Ferb",
+            "score": 200
+        },
+        {
+            "playerName": "maincak",
+            "score": 500
+        },
+        {
+            "playerName": "pancak",
+            "score": 600
+        },
+        {
+            "playerName": "Timmy",
+            "score": 620
+        },
+        {
+            "playerName": "Fairy",
+            "score": 650
+        },
+        {
+            "playerName": "Wonda",
+            "score": 610
+        }
+    ]
+}
+

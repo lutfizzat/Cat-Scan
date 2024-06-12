@@ -1,0 +1,4 @@
+repository "Cat Scan@instupendo@cloud"
+  path "/"
+    br "/main"
+    co "/main"
